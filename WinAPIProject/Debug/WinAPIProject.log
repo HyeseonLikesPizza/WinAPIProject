@@ -1,3 +1,27 @@
-﻿  pch.cpp
-  WinAPIProject.cpp
+﻿  WinAPIProject.cpp
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(127,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(128,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(433,55): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(438,55): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(452,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(453,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(485,42): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(640,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(640,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(639,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(639,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(643,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(643,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(652,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(651,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(650,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(649,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(659,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(658,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(657,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(656,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(666,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(665,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(664,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\WinAPIProject\WinAPIProject\WinAPIProject.cpp(663,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   WinAPIProject.vcxproj -> D:\repos\WinAPIProject\Debug\WinAPIProject.exe
